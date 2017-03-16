@@ -29,7 +29,6 @@ responselist = []
 # Identification words and phrases
 hello = ["hello", "hi"]
 robotstate = ["how are you"]
-whatsup = ["what's up", "whats up", "what is up"]
 calc = ["square root of", "+", "plus", "-", "minus", "*", "times", "/", "divided by"]
 bye = ["bye", "cya"]
 
